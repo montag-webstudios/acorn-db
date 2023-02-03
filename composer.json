@@ -20,7 +20,7 @@
   },
   "require": {
     "php": ">=7.3",
-    "fzaninotto/faker": "^1",
+    "fakerphp/faker": "^1",
     "illuminate/container": "^7||^8||^9",
     "illuminate/database": "^7||^8||^9",
     "illuminate/pagination": "^7||^8||^9",
