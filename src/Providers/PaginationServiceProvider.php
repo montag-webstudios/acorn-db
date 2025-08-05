@@ -2,7 +2,7 @@
 namespace AcornDB\Providers;
 
 use Illuminate\Pagination\Paginator;
-use Roots\Acorn\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 /**
  * Pagination service provider

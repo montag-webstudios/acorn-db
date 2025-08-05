@@ -7,7 +7,7 @@ use Thunder\Shortcode\ShortcodeFacade;
 use AcornDB\Console\Commands\Seeds\SeedCommand;
 use AcornDB\Console\Commands\Seeds\SeederMakeCommand;
 use AcornDB\Console\Commands\Factories\FactoryMakeCommand;
-use Roots\Acorn\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 /**
  * Acorn database service provider

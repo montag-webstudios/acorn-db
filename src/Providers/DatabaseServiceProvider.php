@@ -11,7 +11,7 @@ use Illuminate\Contracts\Queue\EntityResolver;
 use Illuminate\Database\Migrations\MigrationRepositoryInterface;
 use Illuminate\Database\ConnectionResolverInterface;
 use AcornDB\Factory as EloquentFactory;
-use Roots\Acorn\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 /**
  * Database service provider
